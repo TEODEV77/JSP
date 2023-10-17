@@ -26,3 +26,21 @@ Backwards compatibility in JavaScript means that older scripts of JavaScript sho
 # DataTypes
 
 ## Primitive and Object
+
+In JavaScript, there are two types of data types: primitive and object.
+
+# Variables types
+
+| Type | Description |
+|---|---|
+| String | Contains sequences of characters, such as text |
+| Number | Stores numeric values, either integers or decimals |
+| Boolean | Stores **true** or **false** values |
+| Null | Indicates that a variable has no value or is empty |
+| Undefined | When a variable has been declared but not assigned a value |
+| Array | Stores an ordered list of items |
+| Object | Data structure that can contain properties and methods |
+| Function | A reusable block of code that can be called. |
+| Symbol | Unique identifier used for object properties |
+| BigInt | To handle large integers |
+
